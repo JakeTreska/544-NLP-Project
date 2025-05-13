@@ -1,4 +1,4 @@
-ImageIntegrity: Evaluating Caption-Image Consistency
+Image Integrity: Evaluating Caption-Image Consistency
 
 📝 Overview
 
@@ -16,6 +16,7 @@ Automatically generate captions from images using pretrained models.
 Detect objects and actions in the image using visual recognition models.
 Evaluate the semantic and factual consistency between the image and the provided caption.
 Output a comprehensive integrity score using multiple NLP and vision metrics.
+
 🧩 Pipeline
 
 Input: Image and caption pair.
@@ -36,6 +37,7 @@ BLEU & ROUGE-L: Compare user caption to generated captions.
 GPT-2 Perplexity: Language model coherence score.
 Rule-based Evaluation: Checks object/action consistency.
 TIFA Score: QA-based factual correctness evaluation.
+
 🧠 Contributors
 
 Jake Treska
