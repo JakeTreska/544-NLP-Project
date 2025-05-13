@@ -40,8 +40,8 @@ TIFA Score: QA-based factual correctness evaluation.
 
 🧠 Contributors
 
-Jake Treska
-Atharva Bhide
-Cheryl Khau
-Jeannie Jiang
+Jake Treska,
+Atharva Bhide,
+Cheryl Khau,
+Jeannie Jiang,
 Rahul Sura
